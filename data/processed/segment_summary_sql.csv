@@ -1,0 +1,8 @@
+segment,customers_count,average_recency,average_frequency,average_monetary,total_monetary,customers_share_percent
+Regular one-time,28810,213.11,1.0,61.87,1782403.21,30.86
+New customers,22554,59.89,1.0,140.04,3158460.45,24.16
+At risk,17199,397.22,1.04,199.04,3423242.69,18.42
+Inactive one-time,11780,453.22,1.0,46.67,549759.52,12.62
+High-value one-time,10795,224.36,1.0,344.85,3722648.46,11.56
+Champions,1310,115.34,2.16,300.23,393299.5,1.4
+Loyal customers,910,237.69,2.06,210.64,191684.28,0.97

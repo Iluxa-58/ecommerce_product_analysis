@@ -1,0 +1,20 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+env/
+.vscode/
+.idea/
+
+# DuckDB
+*.duckdb
+*.duckdb.wal
+
+# Tableau temporary files
+*.hyper
+data/raw/*.csv
+# Large processed datasets
+data/processed/orders_enriched.csv
+data/processed/customer_segments.csv

@@ -1,0 +1,6 @@
+delivery_group,group_order,orders_count,average_review,low_review_rate_percent
+0-7,1,25933,4.418,7.44
+8-14,2,39997,4.312,8.92
+15-21,3,17582,4.14,11.6
+22-30,4,7882,3.607,24.28
+31+,5,4430,2.254,62.91
