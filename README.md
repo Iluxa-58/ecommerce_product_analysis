@@ -15,10 +15,9 @@
 - Какие показатели следует контролировать бизнесу?
 
 ## Интерактивные дашборды
-
-- [Обзор бизнеса Olist](https://datalens.ru/rpmtpba9kd4ka-obzor-biznesa-olist)
-- [Клиенты и RFM-сегменты](https://datalens.ru/trprfzij4a9kc-klienty-i-rfm-segmenty)
-- [Доставка и оценки клиентов](https://datalens.ru/a86oblnxgqc6t-dostavka-i-ocenki-klientov)
+- [Обзор бизнеса Olist][https://datalens.ru/rpmtpba9kd4ka-obzor-biznesa-olist]
+- [Клиенты и RFM-сегменты][https://datalens.ru/trprfzij4a9kc-klienty-i-rfm-segmenty]
+- [Доставка и оценки клиентов][https://datalens.ru/a86oblnxgqc6t-dostavka-i-ocenki-klientov]
 
 ### Обзор бизнеса
 
